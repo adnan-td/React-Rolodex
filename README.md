@@ -6,9 +6,9 @@ It has 2 variants: 1. Class Components 2. Functional Components
 
 ## Here's how it looks-like
 
-<img src='React-Rolodex/Preview/image-1.jpg' />
-<img src='React-Rolodex/Preview/image-2.jpg' />
-<img src='React-Rolodex/Preview/image-3.jpg' />
+<img src='Preview/image-1.jpg' />
+<img src='Preview/image-2.jpg' />
+<img src='Preview/image-3.jpg' />
 
 ## How to Run the project on your Device
 
