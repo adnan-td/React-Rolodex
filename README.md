@@ -1,11 +1,11 @@
 # React-Rolodex
 
-Link to the live web application => (https://react-rolodex-4b206.web.app/).\
+Link to the live web application => (https://react-rolodex-4b206.web.app/) \
 A simple react app based on database (for monsters).\
 It displays user details (who are of course monsters) and provides search function for them.\
 It has 2 variants:\ 
-\t 1. Class Components\ 
-\t 2. Functional Components
+1. Class Components\ 
+2. Functional Components
 
 ## Here's how it looks-like
 
