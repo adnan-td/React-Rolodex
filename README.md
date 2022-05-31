@@ -6,9 +6,7 @@ It has 2 variants: 1. Class Components 2. Functional Components
 
 ## Here's how it looks-like
 
-![](preview/image-1.jpg)\
-![](preview/image-2.jpg)\
-![](preview/image-3.jpg)
+<img src='Preview/image-1' />
 
 ## How to Run the project on your Device
 
